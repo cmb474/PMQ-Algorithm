@@ -1,2 +1,2 @@
 # PMQ-Algorithm
-An open source cryptography alogorithm attempting to use in chess to secure data.
+An open source cryptography alogorithm attempting to use in chess to secure data. (Senior Project)
