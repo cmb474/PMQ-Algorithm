@@ -14,7 +14,7 @@ class BingoApp:
             "Picks on Jonesy", "Picks on Peduzzi", "Asks why are you laughing",
             "Says you don't need to know this on the test", "Explains some random ass equation you don't need to know",
             "Sits on desk", "Uses the whiteboard", "Forgets someone's name", "Someone's phone goes off",
-            "Yells at someone for talking", "Jonesy rizz", "Captain sleeps" , "Mentions a Test" , "Bends down to pick somthing up"
+            "Yells at someone for talking", "Jonesy rizz", "Captain sleeps" , "Mentions a Test" , "Bends down to pick somthing up" , "Makes joke no one laughs at"
         ]
 
         # Duplicate the items if necessary to ensure we have 25 unique entries
